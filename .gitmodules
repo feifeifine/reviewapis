@@ -1,0 +1,3 @@
+[submodule "reviewapis"]
+	path = reviewapis
+	url = https://github.com/feifeifine/reviewapis.git
